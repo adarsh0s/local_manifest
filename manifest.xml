@@ -10,7 +10,7 @@
   <project path="device/motorola/devonf" name="device_motorola_devonf" remote="adarsh0s" revision="fifteen"/>
   <project path="vendor/motorola/devonf" name="vendor_motorola_devonf" remote="adarsh0s" revision="fifteen"/>
   <project path="device/motorola/devonf-kernel" name="device_motorola_devonf-kernel" remote="adarsh0s" revision="fifteen"/>
-  <project path="hardware/mediatek" name="hardware_mediatek" remote="lineage" revision="fifteen"/>
+  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="lineage" revision="lineage-22.2"/>
   <project path="vendor/motorola/devonf-motcamera" name="vendor_motorola_devonf-motcamera" remote="sarthakroy2002" revision="fourteen"/>
-  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="lineage" revision="fifteen"/>
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="lineage" revision="lineage-22.2"/>
 </manifest>
